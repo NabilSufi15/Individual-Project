@@ -1,0 +1,13 @@
+,user_id,game_id,username,game_name,game_template,score,attempts,ratings,date
+1,1,8,Ben213,Counting Fruit,Counting,2,4,3,10-04-2019
+2,1,3,Ben213,Match Fruits,Matching,2,2,5,12-04-2019
+3,1,6,Ben213,Order Money,Ordering,2,3,4,14-04-2019
+4,2,7,Harry78,Counting Animals,Counting,2,3,2,10-04-2019
+5,2,1,Harry78,Match Numbers,Matching,2,2,5,12-04-2019
+6,2,5,Harry78,Order Letters,Ordering,2,2,2,14-04-2019
+7,3,9,Joe123,Counting Money,Counting,2,2,5,10-04-2019
+8,3,2,Joe123,Match Sports,Matching,2,4,5,12-04-2019
+9,3,4,Joe123,Order Numbers,Ordering,2,3,3,14-04-2019
+10,2,10,Harry78,"Listening Numbers",Listening,3,3,3,17-04-2019
+11,2,13,Harry78,"Grouping Numbers",Grouping,3,4,2,18-04-2019
+12,2,7,Harry78,"Counting Animals",Counting,3,4,2,29-04-2019

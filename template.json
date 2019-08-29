@@ -1,0 +1,403 @@
+[
+  {
+    "game_name": "Match Numbers",
+    "game_template": "Matching",
+    "game_id": "1",
+    "data": [
+      {
+        "question": "Place the images to the correct word",
+        "word1": "ONE",
+        "image1":"Images/Number1.jpg",
+        "word2": "FOUR",
+        "image2":"Images/Number4.jpg",
+        "word3": "NINE",
+        "image3":"Images/Number9.jpg"
+      },
+      {
+        "question": "Place the images to the correct word",
+        "word1": "SIX",
+        "image1":"Images/Number6.jpg",
+        "word2": "EIGHT",
+        "image2":"Images/Number8.jpg",
+        "word3": "NINE",
+        "image3":"Images/Number9.jpg"
+      },
+      {
+        "question": "Place the images to the correct word",
+        "word1": "ONE",
+        "image1":"Images/Number1.jpg",
+        "word2": "SIX",
+        "image2":"Images/Number6.jpg",
+        "word3": "EIGHT",
+        "image3":"Images/Number8.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Match Sports",
+    "game_template": "Matching",
+    "game_id": "2",
+    "data": [
+      {
+        "question": "Place the images to the correct word",
+        "word1": "GOLF",
+        "image1":"Images/golf.jpg",
+        "word2": "FOOTBALL",
+        "image2":"Images/football.jpg",
+        "word3": "TENNIS",
+        "image3":"Images/tennis.jpg"
+      },
+      {
+        "question": "Place the images to the correct word",
+        "word1": "BASKETBALL",
+        "image1":"Images/basketball.jpg",
+        "word2": "RUGBY",
+        "image2":"Images/rugby.jpg",
+        "word3": "CRICKET",
+        "image3":"Images/cricket.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Match Fruits",
+    "game_template": "Matching",
+    "game_id": "3",
+    "data": [
+      {
+        "question": "Place the images to the correct word",
+        "word1": "APPLE",
+        "image1":"Images/apple.jpg",
+        "word2": "BANANA",
+        "image2":"Images/banana.jpg",
+        "word3": "GRAPES",
+        "image3":"Images/grapes.jpg"
+      },
+      {
+        "question": "Place the images to the correct word",
+        "word1": "ORANGE",
+        "image1":"Images/orange.jpg",
+        "word2": "PEAR",
+        "image2":"Images/pear.jpg",
+        "word3": "PINEAPPLE",
+        "image3":"Images/pineapple.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Order Numbers",
+    "game_template": "Ordering",
+    "game_id": "4",
+    "data": [
+      {
+        "question":"Place the numbers from smallest to largest",
+        "text1":"Smallest",
+        "text2":"Largest",
+        "image1":"Images/Number1.jpg",
+        "image2":"Images/Number4.jpg",
+        "image3":"Images/Number9.jpg"
+      },
+      {
+        "question":"Place the numbers from smallest to largest",
+        "text1":"Smallest",
+        "text2":"Largest",
+        "image1":"Images/Number6.jpg",
+        "image2":"Images/Number8.jpg",
+        "image3":"Images/Number9.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Order Letters",
+    "game_template": "Ordering",
+    "game_id": "5",
+    "data": [
+      {
+        "question":"Place the letters in alphabetical order",
+        "text1":"",
+        "text2":"",
+        "image1":"Images/D.jpg",
+        "image2":"Images/K.jpg",
+        "image3":"Images/L.png"
+      },
+      {
+        "question":"Place the letters in alphabetial order",
+        "text1":"",
+        "text2":"",
+        "image1":"Images/B.jpg",
+        "image2":"Images/P.jpg",
+        "image3":"Images/Y.png"
+      }
+    ]
+  },
+  {
+    "game_name": "Order Money",
+    "game_template": "Ordering",
+    "game_id": "6",
+    "data": [
+      {
+        "question":"Place the money from largest to smallest",
+        "text1":"Largest",
+        "text2":"Smallest",
+        "image1":"Images/10P.jpg",
+        "image2":"Images/5P.jpg",
+        "image3":"Images/2P.jpg"
+      },
+      {
+        "question":"Place the money from smallest to largest",
+        "text1":"Smallest",
+        "text2":"Largest",
+        "image1":"Images/20P.png",
+        "image2":"Images/50P.jpg",
+        "image3":"Images/1Pound.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Counting Animals",
+    "game_template": "Counting",
+    "game_id": "7",
+    "data": [
+      {
+        "image": "Images/2birds.jpg",
+        "question": "How many birds are there?",
+        "correctChoice": "2",
+        "choice1": "7",
+        "choice2": "3"
+      },
+      {
+        "image": "Images/4cats.jpg",
+        "question": "How many cats are there",
+        "correctChoice": "4",
+        "choice1": "8",
+        "choice2": "1"
+      }
+    ]
+  },
+  {
+    "game_name": "Counting Fruit",
+    "game_template": "Counting",
+    "game_id": "8",
+    "data": [
+      {
+        "image": "Images/4apples.jpg",
+        "question": "How many apples are there?",
+        "correctChoice": "4",
+        "choice1": "3",
+        "choice2": "8"
+      },
+      {
+        "image": "Images/7bananas.jpg",
+        "question": "How many bananas are there",
+        "correctChoice": "7",
+        "choice1": "2",
+        "choice2": "10"
+      }
+    ]
+  },
+  {
+    "game_name": "Counting Money",
+    "game_template": "Counting",
+    "game_id": "9",
+    "data": [
+      {
+        "image": "Images/5P.jpg",
+        "question": "How much money is there?",
+        "correctChoice": "5",
+        "choice1": "2",
+        "choice2": "8"
+      },
+      {
+        "image": "Images/50P.jpg",
+        "question": "How much money is there",
+        "correctChoice": "50",
+        "choice1": "2",
+        "choice2": "10"
+      }
+    ]
+  },
+  {
+    "game_name": "Listening Numbers",
+    "game_template": "Listening",
+    "game_id": "10",
+    "data": [
+      {
+        "sound": "sound/Seven.wav",
+        "question": "Find the correct Number",
+        "correctChoice": "7",
+        "choice1": "2",
+        "choice2": "9"
+      },
+      {
+        "sound": "sound/One.wav",
+        "question": "Find the correct number",
+        "correctChoice": "1",
+        "choice1": "5",
+        "choice2": "9"
+      },
+      {
+        "sound": "sound/Four.wav",
+        "question": "Find the correct number",
+        "correctChoice": "4",
+        "choice1": "6",
+        "choice2": "2"
+      }
+    ]
+  },
+  {
+    "game_name": "Listening Colours",
+    "game_template": "Listening",
+    "game_id": "11",
+    "data": [
+      {
+        "sound": "sound/Red.wav",
+        "question": "Find the colour",
+        "correctChoice": "Red",
+        "choice1": "Blue",
+        "choice2": "Green"
+      },
+      {
+        "sound": "sound/Pink.wav",
+        "question": "Find the correct number",
+        "correctChoice": "Pink",
+        "choice1": "White",
+        "choice2": "Grey"
+      },
+      {
+        "sound": "sound/Blue.wav",
+        "question": "Find the correct number",
+        "correctChoice": "Blue",
+        "choice1": "Grey",
+        "choice2": "Black"
+      }
+    ]
+  },
+  {
+    "game_name": "Listening Alphabet",
+    "game_template": "Listening",
+    "game_id": "12",
+    "data": [
+      {
+        "sound": "sound/D.wav",
+        "question": "Find the letter",
+        "correctChoice": "D",
+        "choice1": "O",
+        "choice2": "M"
+      },
+      {
+        "sound": "sound/B.wav",
+        "question": "Find the letter",
+        "correctChoice": "B",
+        "choice1": "L",
+        "choice2": "X"
+      },
+      {
+        "sound": "sound/K.wav",
+        "question": "Find the letter",
+        "correctChoice": "K",
+        "choice1": "P",
+        "choice2": "Z"
+      }
+    ]
+  },
+  {
+    "game_name": "Grouping Numbers",
+    "game_template": "Grouping",
+    "game_id": "13",
+    "data": [
+      {
+        "group1Text": "ODD",
+        "group1Image1": "Images/Number1.jpg",
+        "group1Image2": "Images/Number3.jpg",
+        "group1Image3": "Images/Number9.jpg",
+        "group2Text": "EVEN",
+        "group2Image1": "Images/Number2.jpg",
+        "group2Image2": "Images/Number4.jpg",
+        "group2Image3": "Images/Number6.jpg"
+      },
+      {
+        "group1Text": "ODD",
+        "group1Image1": "Images/Number5.jpg",
+        "group1Image2": "Images/Number7.jpg",
+        "group1Image3": "Images/Number11.jpg",
+        "group2Text": "EVEN",
+        "group2Image1": "Images/Number8.jpg",
+        "group2Image2": "Images/Number10.png",
+        "group2Image3": "Images/Number12.png"
+      },
+      {
+        "group1Text": "ODD",
+        "group1Image1": "Images/Number13.jpg",
+        "group1Image2": "Images/Number15.jpg",
+        "group1Image3": "Images/Number17.png",
+        "group2Text": "EVEN",
+        "group2Image1": "Images/Number14.jpg",
+        "group2Image2": "Images/Number18.jpg",
+        "group2Image3": "Images/Number20.jpg"
+      }
+    ]
+  },
+  {
+    "game_name": "Grouping Colours",
+    "game_template": "Grouping",
+    "game_id": "14",
+    "data": [
+      {
+        "group1Text": "RED",
+        "group1Image1": "Images/RedToy.jpg",
+        "group1Image2": "Images/RedCar.jpg",
+        "group1Image3": "Images/RedOcto.png",
+        "group2Text": "GREEN",
+        "group2Image1": "Images/GreenCar.jpg",
+        "group2Image2": "Images/GreenFrog.jpg",
+        "group2Image3": "Images/GreenToy.jpg"
+      },
+      {
+        "group1Text": "PINK",
+        "group1Image1": "Images/PinkCar.jpg",
+        "group1Image2": "Images/PinkPanther.jpg",
+        "group1Image3": "Images/PinkToy.jpg",
+        "group2Text": "YELLOW",
+        "group2Image1": "Images/YellowBird.png",
+        "group2Image2": "Images/YellowCar.jpg",
+        "group2Image3": "Images/YellowPika.jpg"
+      },
+      {
+        "group1Text": "PURPLE",
+        "group1Image1": "Images/PurpleCar.jpg",
+        "group1Image2": "Images/PurpleCat.png",
+        "group1Image3": "Images/PurpleToy.jpg",
+        "group2Text": "BLUE",
+        "group2Image1": "Images/BlueBird.jpg",
+        "group2Image2": "Images/BlueCar.jpg",
+        "group2Image3": "Images/BlueCat.png"
+      }
+    ]
+  },
+  {
+    "game_name": "Grouping Colours",
+    "game_template": "Grouping",
+    "game_id": "15",
+    "data": [
+      {
+        "group1Text": "PURPLE",
+        "group1Image1": "Images/PurpleCar.jpg",
+        "group1Image2": "Images/PurpleCat.png",
+        "group1Image3": "Images/PurpleToy.jpg",
+        "group2Text": "GREEN",
+        "group2Image1": "Images/GreenCar.jpg",
+        "group2Image2": "Images/GreenFrog.jpg",
+        "group2Image3": "Images/GreenToy.jpg"
+      },
+      {
+        "group1Text": "PINK",
+        "group1Image1": "Images/PinkCar.jpg",
+        "group1Image2": "Images/PinkPanther.jpg",
+        "group1Image3": " Images/PinkToy.jpg",
+        "group2Text": "BLUE",
+        "group2Image1": "Images/BlueBird.jpg",
+        "group2Image2": "Images/BlueCar.jpg",
+        "group2Image3": "Images/BlueCat.png"
+      }
+    ]
+  }
+]
